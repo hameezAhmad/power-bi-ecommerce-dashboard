@@ -35,7 +35,7 @@ The following fields are used in the dataset:
 
 ### Main Dashboard
 
-![Ecommerce Dashboard](image.png)
+![Ecommerce Dashboard](Dashboard.png)
 
 
 ## How to Use
